@@ -12,6 +12,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //first comment
 
+<<<<<<< HEAD
         //third comment
+=======
+        //second comment
+
+        //fourth comment
+>>>>>>> hello-world-images
     }
 }
